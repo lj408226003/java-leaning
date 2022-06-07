@@ -4,13 +4,13 @@
 
 ### 1.ipvs模式
 
-<img src="https://upload-images.jianshu.io/upload_images/27936455-be7a111953afecb1.png" alt="img" style="zoom:80%;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/lj408226003/java-leaning@main/images/27936455-be7a111953afecb1.png" alt="img" style="zoom:80%;" align="left"/>
 
 
 
 ### 2.iptables模式
 
-<img src="https://upload-images.jianshu.io/upload_images/27936455-81ab44fa30cf9491.png" alt="img" style="zoom:80%;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/lj408226003/java-leaning@main/images/27936455-81ab44fa30cf9491.png" alt="img" style="zoom:80%;" align="left"/>
 
 
 
@@ -20,13 +20,13 @@
 
 ### 3.pod创建流程
 
-<img src="https://img-blog.csdnimg.cn/37c7d1b19ed54e63990f64f986021e4a.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5rC46L-c5piv5bCR5bm05ZWK,size_20,color_FFFFFF,t_70,g_se,x_16#pic_center" alt="img" style="zoom:30%;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/lj408226003/java-leaning@main/images/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5rC46L-c5piv5bCR5bm05ZWK,size_20,color_FFFFFF,t_70,g_se,x_16.png" alt="img" style="zoom:30%;" align="left"/>
 
 
 
 
 
-<img src="https://img-blog.csdnimg.cn/3346f18bb94e4ec28afc9a02fba11994.png" alt="img" style="zoom:70%;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/lj408226003/java-leaning@main/images/3346f18bb94e4ec28afc9a02fba11994.png" alt="img" style="zoom:70%;" align="left"/>
 
 
 
@@ -39,9 +39,9 @@
 
 
 
-### 4.架构图
+### 4.架构图[本地大图]
 
-### 4.configmap、secret、volumes、pv、pvc
+### 5.configmap、secret、volumes、pv、pvc
 
 ```yaml
 apiVersion: v1
@@ -69,4 +69,3 @@ spec:
 
 
 
-### 5.ServiceAccount
